@@ -17,3 +17,6 @@
 <a href="NCSA E-Learning.pdf">
   <img src="NCSA E-Learning.png" width="500" alt="Python Certificate">
 </a>
+<a href="Getting_Started_with_Cisco_Packet_Tracer_certificate.pdf">
+  <img src="Getting_Started_with_Cisco_Packet_Tracer_certificate.png" width="500" alt="Getting Started with Cisco Packet Tracer Certificate">
+</a>
